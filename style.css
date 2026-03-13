@@ -1,0 +1,41 @@
+body{
+    margin:0;
+    font-family: Arial, sans-serif;
+    background:#f4f6f9;
+    text-align:center;
+}
+
+header{
+    background:#2c3e50;
+    color:white;
+    padding:20px;
+}
+
+header h1{
+    margin:0;
+    font-size:36px;
+}
+
+header p{
+    margin-top:5px;
+}
+
+.presentation{
+    display:flex;
+    justify-content:center;
+    margin:40px;
+}
+
+iframe{
+    width:900px;
+    height:500px;
+    border-radius:10px;
+    box-shadow:0 4px 15px rgba(0,0,0,0.2);
+}
+
+footer{
+    background:#2c3e50;
+    color:white;
+    padding:10px;
+    margin-top:40px;
+}
